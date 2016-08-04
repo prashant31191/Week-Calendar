@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="clr_bg_calendar">#FFFFFF</color>
+    <color name="clr_day_calendar">#111111</color>
+    <color name="clr_date_calendar">#777777</color>
+
+    <color name="selectedBgColor">#0b3</color>
+
+
+    <color name="clr_white">#FFFFFF</color>
+    <color name="clr_green">#0b3</color>
+
+</resources>
